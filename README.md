@@ -4,6 +4,8 @@
 El backend de Urban.Grocers gestiona el registro de usuarios, creación de pedidos, cálculo de costos de entrega, manejo de kits personalizados y conexión con los servicios de entrega y almacenes.
 Este sistema garantiza un flujo de compra eficiente, flexible y automatizado.
 
+***Se requiere un reinicio completo del servidor antes de proceder con la ejecución de las pruebas***
+
 ⚙️ Funcionalidades principales
 🧍 Registro y autorización de usuarios
 
